@@ -4,3 +4,5 @@
 
 
 ### Updates
+- Restructured the codebase
+- Add requirements.txt
