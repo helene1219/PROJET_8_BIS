@@ -1,6 +1,15 @@
-numpy ==1.26.4
+# numpy ==1.26.4
 pandas==2.2.0
 pillow==10.2.0
 pyspark==3.5.0
 pyarrow==15.0.0
+tensorflow-cpu
 
+scikit-learn
+
+# [tool.poetry.group.notebook.dependencies]
+jupyter
+notebook
+jupyterlab
+# black = {extras = ["jupyter"], version = "^23.10.1"}
+black
