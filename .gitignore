@@ -167,3 +167,9 @@ data/
 *.jpeg
 *.png
 *.zip
+*.jpg
+*.png
+*.txt
+fruits-360_dataset/
+fruits-360-original-size/
+
